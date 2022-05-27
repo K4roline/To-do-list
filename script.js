@@ -3,7 +3,7 @@ const elementoInput = document.querySelector('input')
 const elementoBotao = document.querySelector('button')
 
 const tarefas = [
-    
+    //  aqui ficara as tarefas
 ]
 
 function mostraTarefas () {
