@@ -4,10 +4,15 @@
     padding: 0;
     border: 0;
     border-spacing: 0;
-  }
+}
 
 h1 {
     height: 100px;
     width: 100%;
     background-color: aquamarine;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 10%;
 }
