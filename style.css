@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
     border-spacing: 0;
 }
 
@@ -16,3 +16,12 @@ button {
   border: 1px solid black;
   border-radius: 10%;
 }
+
+.conteudo, .lista {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  width: 1000px;
+}
+
